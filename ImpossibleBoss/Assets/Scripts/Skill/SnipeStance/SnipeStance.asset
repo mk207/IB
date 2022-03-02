@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0eef30ae0c29bf40b86eec6028ba39c, type: 3}
+  m_Name: SnipeStance
+  m_EditorClassIdentifier: 
+  m_ID: 3
+  m_CoolDown: 0
+  m_CastingTime: 0
+  m_SkillRange: 0
+  m_SkillName: "\uC800\uACA9\uD0DC\uC138"
+  m_Description: "\uBC1C\uBE60\uB978 \uC804\uB7B5\uAC00\uAC00 \uB429\uB2C8\uB2E4.
+    melee\uD0DC\uADF8 \uC2A4\uD0AC\uC744 \uC0AC\uC6A9\uD560\uC218 \uC5C6\uC9C0\uB9CC
+    \uD589\uB3D9\uC18D\uB3C4\uAC00 20%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  m_Icon: {fileID: 21300000, guid: 2500168c34ad0cd4390fb25b3f941e8d, type: 3}
+  m_Type: 3
+  m_Tag:
+  - buff
+  - ban
+  - passive
+  m_b_CanUse: 1
+  m_b_CanMove: 0
+  m_MaxStack: 1
+  m_StackScale: 1
+  m_PassiveCoolTime: -1
+  m_b_CanDuplicate: 0

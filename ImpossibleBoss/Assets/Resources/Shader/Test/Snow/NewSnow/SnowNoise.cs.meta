@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 60faa4f71ce2f284e902d53eaca328ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _snowFallShader: {fileID: 4800000, guid: 54704092f394d324683d244a99fa1d13, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

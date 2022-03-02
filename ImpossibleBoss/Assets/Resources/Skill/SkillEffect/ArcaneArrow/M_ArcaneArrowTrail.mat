@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_ArcaneArrowTrail
+  m_Shader: {fileID: -6465566751694194690, guid: 996a370821f4a4c4880a560c26a74551, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_515dfe9be3aa4177bc9153c758f0dc97:
+        m_Texture: {fileID: 2800000, guid: 55e2bc235b690c44a937fd003ffff1d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_878cb45d642241b6aa8069268a5db08b: 35
+    m_Colors:
+    - Color_1444b7e763424b708c17106250c0b495: {r: 8.890646, g: 0.7913141, b: 0.7913141, a: 0}
+    - Color_8e87afd596a0413cb4597803f488ac1d: {r: 0.4392157, g: 0.8627451, b: 4, a: 0}
+    - Vector2_752de57480aa4c2892e2bf2f8f10b808: {r: -0.5, g: 0, b: 0, a: 0}
+    - Vector2_908a9ca747a44f6c812026e66aaafa15: {r: -0.2, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

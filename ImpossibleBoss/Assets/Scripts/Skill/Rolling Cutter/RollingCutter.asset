@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4475112210d03e44b0fa18c163d9c3c, type: 3}
+  m_Name: RollingCutter
+  m_EditorClassIdentifier: 
+  m_ID: 14
+  m_CoolDown: 3
+  m_AnimQueue:
+  - m_AnimState: 2
+    m_AnimTime: 0.4
+    m_Effect: {fileID: 1872147318604286, guid: 46329035b6bc7c94987863056f325b0c, type: 3}
+    m_IsConstantSpeed: 0
+  m_Type: 2
+  m_Tag: []
+  m_AOC: {fileID: 22100000, guid: d269c71e93f878a4aad12048e63e4d7e, type: 2}
+  m_b_CanUse: 1
+  m_b_CanMove: 0
+  m_b_IsForceRotation: 1
+  m_b_IsKnockBackImmun: 0
+  m_b_HasChain: 0
+  m_b_ShouldObstructInput: 0
+  m_Radius: 4
+  m_Angle: 60
+  m_CriticalZoneSize: 0.1
+  m_Damage: 70
+  m_CritDamage: 1.2

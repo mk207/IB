@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af612ce9139ac040a06921f446952ec, type: 3}
+  m_Name: CondensationBlow
+  m_EditorClassIdentifier: 
+  m_ID: 12
+  m_CoolDown: 6
+  m_AnimQueue:
+  - m_AnimState: 6
+    m_AnimTime: 0.5
+    m_Effect: {fileID: 29920557081901440, guid: 0bd742591af5e02488ea4651fa490c51, type: 3}
+    m_IsConstantSpeed: 0
+  - m_AnimState: 2
+    m_AnimTime: 0.3
+    m_Effect: {fileID: 1644958980890870, guid: 44a5d3c9af2616846ac3e7c3720a4ebf, type: 3}
+    m_IsConstantSpeed: 0
+  m_Type: 2
+  m_Tag:
+  - melee
+  - buff
+  - dive
+  m_AOC: {fileID: 22100000, guid: b5c71b9f761b7154ba4dd1c7287b7f59, type: 2}
+  m_b_CanUse: 1
+  m_b_CanMove: 0
+  m_b_IsForceRotation: 1
+  m_b_IsKnockBackImmun: 0
+  m_b_HasChain: 0
+  m_b_ShouldObstructInput: 1
+  m_Width: 2
+  m_Height: 4
+  m_BuffDurationTime: 4
+  m_DashDistance: 3
+  m_Damage: 60
+  m_BuffAmount: 40
+  m_HammerEffectTime: 2

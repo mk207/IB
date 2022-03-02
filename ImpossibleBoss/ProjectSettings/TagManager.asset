@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - sskill_pnl
+  - skill_list_pnl
+  - Enemy
+  - sdifficulty_pnl
+  - DummyPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MinimapIcon
+  - Water
+  - UI
+  - GROUND
+  - Player
+  - Boss
+  - Enemy
+  - Wall
+  - OnlyInteractMe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

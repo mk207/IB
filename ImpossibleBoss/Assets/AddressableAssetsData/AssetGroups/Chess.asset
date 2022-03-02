@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Chess
+  m_EditorClassIdentifier: 
+  m_GroupName: Chess
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cecec581949da2b4286d2b83d0194057
+  m_SerializeEntries:
+  - m_GUID: 84cdf42997a296742ab3827625c562a4
+    m_Address: Assets/BossStageAssets/Chess
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 24db24c785c80e34ba7cc187063a9843
+    m_Address: Assets/BossStageAssets/Chess/Tornado
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7a29e71ea2d2c4843b78af5fc8db4287
+    m_Address: Assets/BossStageAssets/Chess/ChessPieceMesh
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 839827faccae0364d8501bbde4b24eda
+    m_Address: Assets/BossStageAssets/Chess/FlowerCard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3c5d1a63f37a75943a8f6018da71636f
+    m_Address: Assets/BossStageAssets/Chess/IndicatorImage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f59a745a297d6a24cb6d98af503621eb
+    m_Address: ChessRook
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 959e9d02aecfd484ca7aa73aa1e12703
+    m_Address: ChessBishop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 800e7d448f240b1418da1465147e0467
+    m_Address: ChessKnight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cc11a534724a1604db6ecb01ff77748f
+    m_Address: ChessPawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7ba08e9ffa3d2294b81177f35f0e10c2
+    m_Address: ChessKing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0ad751edfab552343b94cfb39e8eefd2
+    m_Address: ChessQueen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 180ba1067942ea54eb3e5edb01115ef0
+    m_Address: FlowerCard/Club
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8bf19b031ecb836459804adb74d44906
+    m_Address: FlowerCard/Diamond
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4806e49f27f4f9c4da3381308abc5f22
+    m_Address: FlowerCard/Heart
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5a2a18f3fd9813f4ea86a56123501f36
+    m_Address: FlowerCard/Spade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2f1121e7e173a7641b563079a7c84ae6
+    m_Address: FlowerCard/Joker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 741fe4b697abdff4e827026ed8b82f8b
+    m_Address: QuizPattern
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 847fa292fff0e764da6032cc454c9f98
+    m_Address: QuizExterminateEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aa86ad21eab82dc4191a95844e607723
+    m_Address: ChessDeadZone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chess
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cf55fd480ee260b458362acfe802dafa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 40f3b99d52bbed640b290348251cccf2, type: 2}
+    - {fileID: 11400000, guid: 30ab3d8e04236d240924bdb0ba03270b, type: 2}

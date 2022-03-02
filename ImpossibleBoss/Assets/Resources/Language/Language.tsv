@@ -1,0 +1,39 @@
+ID	Kor	Eng
+name_Empty	스킬없음	Empty
+desc_Empty	비었다 임마	Skill Empty
+name_Madness	광기	Madness
+desc_Madness	적에대한 적의로 미처버립니다. 적에게 입히는 데미지가 20% 상승하지만 받는데미지 또한 20% 증가합니다.	You get crazy with hostility toward the enemy. Damage to enemies increases by 20%, but damage to enemies also increases by 20%.
+name_Blink	점멸	Blink
+desc_Blink	지정 위치로 순간이동합니다. 위치에 보스를 제외한 적을 밀쳐냅니다.쿨타임 12초	this is teleport
+name_SnipeStance	저격태세	Snipe stance
+desc_SnipeStance	발빠른 전략가가 됩니다. melee태그 스킬을 사용할수 없지만 행동속도가 20%만큼 증가합니다.	100% pregnant
+name_ChargeStance	돌격태세	Charge stance
+desc_ChargeStance	근접전의 전문가가 됩니다. range 태그의 스킬들을 사용할 수 없어지지만. 적에게 입히는 데미지가 10% 증가하고 받는 데미지는 10%만큼 감소함니다.	Charge sex
+name_FixedArtillery	고정포대	Fixed artillery
+desc_FixedArtillery	발이 무거워지지만 더욱 강력하게 공격합니다. move태그 스킬의 사용이 불가능 해 지지만, 적에게 입히는 데미지가 15%만큼 증가합니다.	Fixed sex
+name_CloseCall	십사일생	CloseCall
+desc_CloseCall	열번 죽을 만한 상황도 극복해냅니다. 죽음에 이르는 데미지를 받았을 때 체력을 20% 회복하고 1초동안 무적상태가 됩니다.	Fuck Yeah
+name_Lightning	벼락	Lightning
+desc_Lightning	지정 점위에 벼락을 내리쳐 120의 데미지를 줍니다.  적에게 적중시 50%확률로 잔류 디버프를 부여합니다. *잔류 : 3초에 걸처 0.5초당 10의 데미지 쿨타임 10초	Electric sex
+name_FusilladeAcaneArrow	비전화살 연발	Fusillade acane arrow
+desc_FusilladeAcaneArrow	0.5초마다 40의 데미지를 주는 비전미사일을 소환하여 발사합니다. 2.5초동안 유지됩니다. 이 공격은 범위안의 적을 추격합니다. 쿨타임 12초	Chain sex
+name_SideStep	사이드 스텝	Side step
+desc_SideStep	바라보는 방향의 우측으로 짧게 이동합니다. 쿨타임 5초	Side sex
+name_Shooting	사격	Shooting
+desc_Shooting	적을 사격합니다. 데미지 100 쿨타임6초	
+name_AimedShot	조준사격	Aimed Shot
+desc_AimedShot	적을 정밀하게 조준하여 300의 데미지를 줍니다.  쿨타임 12초	
+name_SpearCharge	스피어 차지	Spear charge
+desc_SpearCharge	강력한 기세로 대지를 박차 강력한 공격을 합니다. 데미지는 스킬의 홀딩시간에 비례합니다. 홀딩 0~2.5초 데미지 10~260 쿨타임 12초	
+name_CondensationBlow	응축의 일격	Condensation blow
+desc_CondensationBlow	적에게 돌진하여 50의 데미지를주고  몸의 기운을 응축합니다. 스킬이 적중한 이후 4초동안 공격력이 40%증가합니다. 쿨타임6초	
+name_Rolling	구르기	Rolling
+desc_Rolling	지정 위치로 구릅니다. 2초안에 다시 사용 할 수 있습니다. 쿨타임9초	I'm Vayne
+name_HundredFists	오라오라의 권	Hundred Fists
+desc_HundredFists	오라오라한 기운을 담아 상대를 난타함니다. 9회 타격후 강력한 마무리일격을 가함니다. 홀딩시간 0초~2초 데미지 10~220 쿨타임 10초	Fisting Fuck
+name_StickyBomb	폭탄매설	Sticky bomb
+desc_StickyBomb	20의 데미지를 입힌 후 다음 공격에 격폭되어 250의 데미지를 주는 폭탄을 설치합니다 쿨타임 12초	sex bomb
+name_RollingCutter	회전참	Rolling Cutter
+desc_RollingCutter	전방을 종으로 베어 100의 데미지를 줍니다. 최대사거리에서 적중 시킬 경우 2배의 데미지를 줍니다. 쿨타임 8초	Meet Spin
+name_DebugRollingCutter	디버깅용	디버깅용 쌘스킬
+desc_DebugRollingCutter	1000	파워쎾

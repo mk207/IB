@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 658cc4bc0dae2ff45baf80ff3f1b8f9b, type: 3}
+  m_Name: ChargeStance
+  m_EditorClassIdentifier: 
+  m_ID: 2
+  m_CoolDown: 0
+  m_CastingTime: 0
+  m_SkillRange:
+    x: 0
+    y: 0
+  m_SkillName: "\uB3CC\uACA9\uD0DC\uC138"
+  m_Description: "\uADFC\uC811\uC804\uC758 \uC804\uBB38\uAC00\uAC00 \uB429\uB2C8\uB2E4.
+    range \uD0DC\uADF8\uC758 \uC2A4\uD0AC\uB4E4\uC744 \uC0AC\uC6A9\uD560 \uC218 \uC5C6\uC5B4\uC9C0\uC9C0\uB9CC.
+    \uC801\uC5D0\uAC8C \uC785\uD788\uB294 \uB370\uBBF8\uC9C0\uAC00 10% \uC99D\uAC00\uD558\uACE0
+    \uBC1B\uB294 \uB370\uBBF8\uC9C0\uB294 10%\uB9CC\uD07C \uAC10\uC18C\uD568\uB2C8\uB2E4."
+  m_Icon: {fileID: 21300000, guid: 17362f7e0b736fa4a8f1a47aa5a7c919, type: 3}
+  m_Type: 3
+  m_Tag:
+  - buff
+  - ban
+  - passive
+  m_b_CanUse: 1
+  m_b_CanMove: 0
+  m_MaxStack: 1
+  m_StackScale: 1
+  m_PassiveCoolTime: -1
+  m_b_CanDuplicate: 0

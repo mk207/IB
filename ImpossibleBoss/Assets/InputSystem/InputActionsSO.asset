@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fce0aea3c5318143ab59a86e658c3de, type: 3}
+  m_Name: InputActionsSO
+  m_EditorClassIdentifier: 
+  m_Skill1: {fileID: -7528280997982859776, guid: 8f051ea01d674324d9318a1a0406d14c, type: 3}
+  m_Skill2: {fileID: -8367859888756740776, guid: 8f051ea01d674324d9318a1a0406d14c, type: 3}
+  m_Skill3: {fileID: -7708877780584243876, guid: 8f051ea01d674324d9318a1a0406d14c, type: 3}
+  m_Skill4: {fileID: 420537065288569013, guid: 8f051ea01d674324d9318a1a0406d14c, type: 3}
+  m_Skill5: {fileID: -5004673490989844695, guid: 8f051ea01d674324d9318a1a0406d14c, type: 3}
+  m_Skill6: {fileID: 3230493002954670483, guid: 8f051ea01d674324d9318a1a0406d14c, type: 3}

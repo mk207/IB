@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19ad6e273bea5743ab9fd3f63ee93b9, type: 3}
+  m_Name: Shooting
+  m_EditorClassIdentifier: 
+  m_ID: 9
+  m_CoolDown: 3
+  m_AnimQueue:
+  - m_AnimState: 2
+    m_AnimTime: 0.3
+    m_Effect: {fileID: 1200950891393156, guid: 52a726355873f9443b626e837ef94008, type: 3}
+    m_IsConstantSpeed: 0
+  m_Type: 1
+  m_Tag:
+  - range
+  - instant
+  m_AOC: {fileID: 22100000, guid: fcaf4a2f0c8d4a344a78e0dec97f4c98, type: 2}
+  m_b_CanUse: 1
+  m_b_CanMove: 0
+  m_b_IsForceRotation: 1
+  m_b_IsKnockBackImmun: 0
+  m_b_HasChain: 0
+  m_Damage: 60
+  m_Height: 12
+  m_Width: 0.3

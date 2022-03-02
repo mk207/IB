@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 88080c1c53ce77c44be1582f772af0cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SnowHeight: {fileID: 2800000, guid: 3343cd031ae898c41b2ce23fe84e18d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

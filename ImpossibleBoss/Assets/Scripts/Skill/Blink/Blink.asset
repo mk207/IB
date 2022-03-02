@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e3f7a4ff9bce6458f77d240950eca7, type: 3}
+  m_Name: Blink
+  m_EditorClassIdentifier: 
+  m_ID: 5
+  m_CoolDown: 10
+  m_AnimQueue:
+  - m_AnimState: 6
+    m_AnimTime: 0.7
+    m_Effect: {fileID: 0}
+    m_IsConstantSpeed: 0
+  m_Type: 0
+  m_Tag:
+  - move
+  m_AOC: {fileID: 22100000, guid: 6a931d3ee4def184da66450692894e27, type: 2}
+  m_b_CanUse: 1
+  m_b_CanMove: 1
+  m_b_IsForceRotation: 1
+  m_b_IsKnockBackImmun: 1
+  m_b_HasChain: 0
+  m_b_ShouldObstructInput: 1
+  m_SkillRange: 7
+  m_TakeDamageParams:
+    causedBy: {fileID: 0}
+    damageAmount: 0
+    givenDamageRate: 0
+    cc: 1
+    ccAmount: 5
+    tag: []

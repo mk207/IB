@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543843f2cd0f4ea4eb536472a344212e, type: 3}
+  m_Name: FixedArtillery
+  m_EditorClassIdentifier: 
+  m_ID: 1
+  m_CoolDown: 0
+  m_CastingTime: 0
+  m_SkillRange:
+    x: 0
+    y: 0
+  m_SkillName: "\uACE0\uC815\uD3EC"
+  m_Description: "\uBC1C\uC774 \uBB34\uAC70\uC6CC\uC9C0\uC9C0\uB9CC \uB354\uC6B1
+    \uAC15\uB825\uD558\uAC8C \uACF5\uACA9\uD569\uB2C8\uB2E4. move\uD0DC\uADF8 \uC2A4\uD0AC\uC758
+    \uC0AC\uC6A9\uC774 \uBD88\uAC00\uB2A5 \uD574 \uC9C0\uC9C0\uB9CC, \uC801\uC5D0\uAC8C
+    \uC785\uD788\uB294 \uB370\uBBF8\uC9C0\uAC00 15%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  m_Icon: {fileID: 21300000, guid: d5087645218ae8641b0faa9507057a5b, type: 3}
+  m_Type: 3
+  m_Tag:
+  - buff
+  - ban
+  - passive
+  m_b_CanUse: 1
+  m_b_CanMove: 0
+  m_MaxStack: 1
+  m_StackScale: 1
+  m_PassiveCoolTime: -1
+  m_b_CanDuplicate: 0
